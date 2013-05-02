@@ -1,7 +1,7 @@
 import wikidown
 import re
 import os
-
+import sys
 import markov
 
 
@@ -17,7 +17,7 @@ def words(body):
 
 def main():
     mkv = markov.make_markov()
-    page = wikidown.GetWikipediaPage("C*_algebra")
+    page = wikidown.GetWikipediaPage(sys.argv[1])
     markov.feed_markov(mkv, words(page['content']))
 
     w = markov.walk_markov(mkv)

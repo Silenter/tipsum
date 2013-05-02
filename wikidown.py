@@ -25,7 +25,7 @@ def GetWikipediaPage(title):
     url = "http://en.wikipedia.org/w/api.php?action=query&format=xml&prop=revisions&redirects=yes&titles=%s&rvprop=%s" % (title, rvprop)
     doc = lxml.etree.parse(urllib2.urlopen(url))
     root = doc.getroot()
-    print lxml.etree.tostring(root)
+#    print lxml.etree.tostring(root)
     page = root.find(".//page")
     if "missing" in page.attrib:
         return None
