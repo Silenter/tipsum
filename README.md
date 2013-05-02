@@ -1,49 +1,9 @@
-Implementation of lorem ipsum using the [testing-in-python][] mailing list as a
-corpus text.
+Implementation of lorem ipsum using a Wikipedia page as a corpus text.
 
-  [testing-in-python]: http://lists.idyll.org/listinfo/testing-in-python
-
-    $ cd mboxes/
-    $ python download.py
-    $ cd ../
-    $ python tipsum.py
+    $ python wikov.py <name of Wikipedia page as it appears in the URL>
 
 ## Example
 
-> weigand you expect that http error before shooting yourself and not a
-> reusable a dummy string on that all conference wide web status codes and new
-> piece of this yes i find module level directory but it did you don't want to
-> relicense the original message back to use in function undeclared use in
-> something not a way it can has been discussing stuff aiui the above have you
-> talk on the correctness true now we go into the dotted object using coverage
-> script made a fair enough code page without having to how it's intentionally
-> with side effect am andrew dalke hi all of it a public interface at why yet
-> told this undeclared use in many problems we have postgresql database
-> managing a python and core-python testing universe with the notation for
-> member in something not a structure or that approach to interoperate and i
-> know any and stores the road to add it can try to do you want to the test is
-> the python world theory behind that will give meaningful bug checkrow action
-> taken that setup i run from the issue here it's possible but i can't teach
-> the expected however the test libraries require added the dsl but when it
-> seams almost nothing sensitive about it is nice too different differently the
-> changes until i can succeed since you could change the file line in something
-> not a microcode controlling the latest release every time i get and in
-> function undeclared use in function undeclared use in something not a side of
-> this undeclared use in something not a structure or union syntax error before
-> token syntax error before token request for called during tests with all
-> thanks a structure or union request for an html attachment was scrubbed not a
-> bit clunky constraint that you could happen sooner than that only sprang into
-> nose's pattern which is of getting the variants will thanks benji york at top
-> syntax error before token syntax error before token in a good at pm michael
-> foord tdd and i'm not automated tests test plugins from the slow i need to
-> pluck out here's all the filter specifies what i don't think it seems i will
-> break broken web apps the behaviour although i believe this at hey there a
-> unit tests it seems to enumerate the first one of time outlining some mucking
-> internal methods of info on and reading this makes pointer at least python
-> and providing such frameworks would suppress the other def foo as long as it
-> seems like a bunch of the ben finney at the error before any ratio between
-> all active discussion with python our teams use in currently doing is the
-> testing project tree but i then i started regards bhargav next part url echo
-> server and acceptable use in doubt there's probably a structure or i can
-> think about oe jskit contains the content management wants a structure or
-> union request for the same thing i would also considering
+    $ python wikov.py C*-algebra
+
+> identically on a positive a with a unique to the latter case and noncommutative geometry programs algebra of sequences of complex together with an excellent introduction to operators on the american mathematical physics background and addition the is an approximate identities one typically describes a with a map between is weaker than the conjugate transpose more generally believed that any has the conjugate transpose more generally believed that at infinity'' in state is only if and only factor a characterization of is hence and let be established by the measurable quantities of unitary representations of research material providing much supporting intuition but some fonts render the form a self-adjoint elements and only factor a finite dimensional of properties can use the map one can deduce the gelfand representation states that the extent of israel gelfand and from into which classification is nontrivial and quantum mechanics to consider only factor a sequential approximate identity in this characterization is a multiplicative unit the form elements and quantum field mathematically rigorous reference which is defined to be the american mathematical physics background and has non-type i if is a complex hilbert space of an immediate generalization of basic functional on map one can be the a if its use the expected value of these algebras of then this vector uniquely determined by reduction to a is of which is identical to the case we may assume that the natural number of as a a universal that any has an of it is completely determined by reduction to the continuous factors uniquely through it implies that is a of this vector spaces such functions on rings of self-adjoint elements of have a unital subspace of continuity linear defined to speak of sequences of a general harmonic analysis of elements of the form a bounded linear on hilbert space are now an identity the the enveloping of for in a complex algebra given by is also has a is short bounded operators let be a if is a source of finite dimensional of operators on min given a naturally has been replaced by c e rickart in current terminology conflicts with its use the form elements of the given this is a complex hilbert space the norm topology which provides extensive physics background and is used in a is completely determined by reduction to be closed convex cone this is the ordering is sufficient to be easily displayed to commutative let be a naturally has non-type i however if for every other continuous functional calculus or to locally compact as algebras von neumann algebra of the algebra given by the a type ii and quantum mechanics and for and in and for these is a high-quality technical exposition it is rarely used in the measurable quantities of character equipped with are semisimple from north holland press of unitary representations of bounded operators is only if and use for can deduce the expected value of any has a sequential approximate identity in quantum mechanics and only

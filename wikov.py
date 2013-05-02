@@ -1,4 +1,4 @@
-import mailbox
+import wikidown
 import re
 import os
 
@@ -17,11 +17,8 @@ def words(body):
 
 def main():
     mkv = markov.make_markov()
-    mboxes = os.listdir('mboxes')
-    for mbox_file in mboxes:
-        mbox = mailbox.mbox('mboxes/' + mbox_file)
-        for message in mbox:
-            markov.feed_markov(mkv, words(message.get_payload()))
+    page = wikidown.GetWikipediaPage("C*_algebra")
+    markov.feed_markov(mkv, words(page['content']))
 
     w = markov.walk_markov(mkv)
     for i in xrange(500):
